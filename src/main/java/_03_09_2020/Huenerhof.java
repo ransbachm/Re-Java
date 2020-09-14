@@ -18,6 +18,7 @@ public class Huenerhof {
 		
 		System.out.printf("%n%.2f Hüner legen in %.2f Tagen %.2f Eier.%n", anzahlHuener, anzahlTage, anzahlEier);
 		System.out.printf("Die %.2f Hüner brauchen während dieser Zeit %.2f kg Futter.%n", anzahlHuener, mengeFutter);
+		
 	}
 
 }

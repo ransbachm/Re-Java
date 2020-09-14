@@ -1,7 +1,12 @@
 package _03_09_2020;
 
-public class All {
-	// available at https://github.com/ransbachm/Re-Java
+public class Main {
+	/*
+	 * @author Martin Ransbach
+	 * code available at
+	 * @link https://github.com/ransbachm/Re-Java
+	 * 
+	 */
 	
 	public static void main(String[] args) {
 		BodyMassIndex.main(null);
